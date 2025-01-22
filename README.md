@@ -1,16 +1,19 @@
-## Hi there 👋
+👩‍💻 Aspiring Innovator in Computer Science
+🎓 Undergraduate in Computer Science & Engineering
+🌟 Passionate about exploring the intricacies of algorithms, data structures, and software development.
 
-<!--
-**LilithSinclair/LilithSinclair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Current Focus:
 
-Here are some ideas to get you started:
+Building a strong foundation in competitive programming as an ICPC aspirant.
+Enhancing problem-solving skills and collaborating effectively in team settings.
+Gaining hands-on experience with version control and open-source contributions.
+🌱 Learning Journey:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Proficient in C, with plans to expand into other languages and frameworks.
+Actively participating in programming contests and academic projects.
+✨ Beliefs & Values:
+
+Simplicity and clarity in coding.
+Continuous learning and embracing challenges.
+Working collaboratively to create meaningful solutions.
+🚀 Excited to learn, contribute, and grow with the developer community!
